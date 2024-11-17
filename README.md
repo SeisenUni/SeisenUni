@@ -5,4 +5,4 @@
 
 ### Language and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,azure,docker,kubernetes,postman,arduino,linux)](https://skillicons.dev)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThirdChyr&show_icons=true&theme=dark)
