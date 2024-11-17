@@ -6,4 +6,4 @@
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js)](https://skillicons.dev)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,postman,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,postman,arduino,linux)](https://skillicons.dev)
